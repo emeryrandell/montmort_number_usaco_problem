@@ -25,7 +25,7 @@ Input
 *N* *M*
 
 Output
-$b_1$, $b_2$ … $b_N$
+$b_1$, $b_2$, …, $b_N$
 
 Sample 
 
