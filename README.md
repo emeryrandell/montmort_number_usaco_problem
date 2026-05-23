@@ -1,4 +1,4 @@
-# usaco_bronze_problem_1
+# montmort_number_usaco_problem
  Montmort Problem (Easy)
  
  YouTube Tutorial Link: [uploading soon]
