@@ -1,8 +1,12 @@
 # usaco_bronze_problem_1
  Montmort Problem (Easy)
+ 
  YouTube Tutorial Link: [uploading soon]
+
 Montmort Number
+
 Time Limit: 10 sec
+
 Problem Statement
 
 Let $a_k$ be the number of size *k* permutations p s.t. $p_i$ ≠ *i* for each *i*.
