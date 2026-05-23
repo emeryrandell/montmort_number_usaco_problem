@@ -5,20 +5,20 @@ Montmort Number
 Time Limit: 10 sec
 Problem Statement
 
-Let $a_k$ be the number of size k permutations p s.t. $p_i$ ≠ *i* for each *i*.
+Let $a_k$ be the number of size *k* permutations p s.t. $p_i$ ≠ *i* for each *i*.
 
 Given 
-N,M. For each i=1,⋯,N, print $b_k$ = $a_k$ mod M.
+N,M. For each i=1,⋯,*N*, print $b_k$ = $a_k$ mod *M*.
 
 Constraints
 
-1 ≤ N ≤ 10^6
+1 ≤ *N* ≤ 10^6
 
-1 ≤ M ≤ 10^9 
+1 ≤ *M* ≤ 10^9 
 9
 
 Input
-N M
+*N* *M*
 
 Output
 $b_1$, $b_2$ … $b_N$
